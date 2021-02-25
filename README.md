@@ -1,1 +1,3 @@
-# drawing-pad
+# Drawing Pad
+
+## Introduction
